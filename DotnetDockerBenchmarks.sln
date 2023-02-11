@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleResponseBytes", "GoogleResponseBytes\GoogleResponseBytes.csproj", "{37AE907C-ECAB-4EBE-A619-478DD2A180C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{FB3AA5A7-F0C7-4830-A09A-8837FF741127}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{37AE907C-ECAB-4EBE-A619-478DD2A180C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37AE907C-ECAB-4EBE-A619-478DD2A180C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37AE907C-ECAB-4EBE-A619-478DD2A180C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3AA5A7-F0C7-4830-A09A-8837FF741127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3AA5A7-F0C7-4830-A09A-8837FF741127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3AA5A7-F0C7-4830-A09A-8837FF741127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3AA5A7-F0C7-4830-A09A-8837FF741127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
